@@ -1,0 +1,60 @@
+.card-1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-1-bg.png');
+  background-size: cover;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #cbced2;
+}
+
+.card-2 {
+  display: flex;
+  justify-content: flex-end;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-2-bg.png');
+  background-size: cover;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #cbced2;
+}
+
+.card-3 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-3-bg.png');
+  background-size: cover;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #cbced2;
+}
+
+/* Write your code here. */
+/*.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}*/
+.heading {
+  color: #326a9d;
+  font-size: 38px;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #64748b;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.button {
+  border: #326a9d 1px solid;
+  border-radius: 5px;
+  background-color: inherit;
+  color: #326a9d;
+  font-weight: 500;
+  padding: 5px;
+  margin-bottom: 5px;
+}
